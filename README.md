@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Waseemkhan-hub
-- 👀 I’m interested in App Develoment
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in tech
+- 🌱 I’m currently working on .Net
 - 📫 How to reach me Email: waseem2khan00@gmail.com
 - 😄 Pronouns: He
 
